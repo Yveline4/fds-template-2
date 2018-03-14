@@ -19,7 +19,7 @@ html {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.png) no-repeat;
+    background: url(../img/intro-bg1.jpg) no-repeat;
     background-size: cover;
 }
 
@@ -31,7 +31,7 @@ html {
 
 .introducao h1 {
     margin: 0;
-    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+    text-shadow: 7px 4px 3px rgba(0, 0, 0, 0.6);
     font-size: 5em;
     padding-bottom: 10px;
 
@@ -93,14 +93,6 @@ html {
         margin: 0;
         text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
         font-size: 3em;
-    }
-    ul.banner-social-buttons>li {
-        display: block;
-        margin-bottom: 20px;
-        padding: 0;
-    }
-    ul.banner-social-buttons>li:last-child {
-        margin-bottom: 0;
     }
 }
 
